@@ -46,4 +46,6 @@
 
 - Machine Learning
 
-### _N.B =>_ This repo will be updated continuously and regularly
+### _N.B =>_ This repo will be updated continuously and frequently
+
+
