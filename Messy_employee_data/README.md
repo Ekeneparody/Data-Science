@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Messy employee data
 
 ### This is a messy employee data that i cleaned for further analysis
@@ -10,3 +11,17 @@
 - Missing values in the 'salary' column
 - Joined department and region
 - Different date formats
+=======
+# Messy employee data
+
+### This is a messy employee data that i cleaned for further analysis
+
+### In this dataset i started cleaning the numerical columns first before cleaning the categorical columns
+
+### This dataset contained a few issues which include:
+
+- Missing values in the 'age' column
+- Missing values in the 'salary' column
+- Joined department and region
+- Different date formats
+>>>>>>> ea3c2e7d967f7e0699d2259e362db67d4772c2ac
