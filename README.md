@@ -28,7 +28,7 @@
 
 ## Why Data Science?
 
-### I chose Data Science as a path in computer Science because i want to know how a machine learns and is able to predict information of users. In my personal opinion i feel its the best use in real world cases and it is widely used in various economic sectors across the world. Which is also a main reason for me to take it up as a profession.
+### I chose Data Science as a path in computer Science because i want to know how a machine learns and is able to predict information of users. I also want to use my knowledge in data science for my final year project in Bingham University, Karu. In my personal opinion i feel it is the best use in real world cases and it is widely used in various economic sectors across the world. Which is also a main reason for me to take it up as a profession.
 
 ### Workflow of my journey through Data Science
 
