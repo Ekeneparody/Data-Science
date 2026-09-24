@@ -11,7 +11,7 @@
 - Inconsistent dates
 =======
 
-### A full EDA was done on this dataset where the dataset was:
+### A full EDA was done on this synthetic dataset where the dataset was:
 - Inspected and Cleaned from the first column to the last
 - Grouped and Aggregated
 - Visualized with different charts and insights were brought out.
