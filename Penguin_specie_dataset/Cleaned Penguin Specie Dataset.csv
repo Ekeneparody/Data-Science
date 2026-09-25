@@ -37,18 +37,7 @@ Gentoo,Biscoe,48.5,15.4,220.0,5251.0,Female
 Gentoo,Biscoe,44.7,15.3,224.0,5271.0,Male
 Adelie,Torgersen,39.6,17.5,195.0,3605.0,Male
 Adelie,Torgersen,35.3,18.9,186.0,3999.0,Male
-Chinstrap,Dream,47.4,16.2,185.0,3958.0,"<bound method Series.mode of 0      Female
-1        Male
-2      Female
-3        Male
-4        Male
-        ...  
-995      Male
-996    Female
-997      Male
-998    Female
-999    Female
-Name: sex, Length: 1000, dtype: str>"
+Chinstrap,Dream,47.4,16.2,185.0,3958.0,Female
 Adelie,Dream,36.7,18.3,190.0,3352.0,Female
 Adelie,Dream,38.3,18.3,191.0,3087.0,Male
 Chinstrap,Dream,48.0,18.3,195.0,3510.0,Male
@@ -164,18 +153,7 @@ Gentoo,Biscoe,45.9,17.8,218.0,4541.0,Male
 Adelie,Torgersen,39.3,18.4,194.0,3729.0,Male
 Adelie,Dream,40.7,17.4,183.0,3870.0,Female
 Chinstrap,Dream,50.2,18.4,185.0,4079.0,Male
-Gentoo,Biscoe,46.2,14.6,221.0,4848.0,"<bound method Series.mode of 0      Female
-1        Male
-2      Female
-3        Male
-4        Male
-        ...  
-995      Male
-996    Female
-997      Male
-998    Female
-999    Female
-Name: sex, Length: 1000, dtype: str>"
+Gentoo,Biscoe,46.2,14.6,221.0,4848.0,Female
 Adelie,Dream,38.1,18.5,192.0,4243.0,Male
 Chinstrap,Dream,45.6,15.8,199.0,4001.0,Male
 Gentoo,Biscoe,52.8,14.2,213.0,5083.0,Male
@@ -191,18 +169,7 @@ Adelie,Dream,38.9,19.7,190.0,3836.0,Female
 Adelie,Dream,36.5,18.7,189.0,3996.0,Male
 Adelie,Torgersen,41.4,20.9,193.0,3798.0,Male
 Chinstrap,Dream,46.4,18.9,198.0,3821.0,Female
-Chinstrap,Dream,45.8,19.4,205.0,3695.0,"<bound method Series.mode of 0      Female
-1        Male
-2      Female
-3        Male
-4        Male
-        ...  
-995      Male
-996    Female
-997      Male
-998    Female
-999    Female
-Name: sex, Length: 1000, dtype: str>"
+Chinstrap,Dream,45.8,19.4,205.0,3695.0,Female
 Adelie,Biscoe,41.7,18.3,184.0,3549.0,Female
 Chinstrap,Dream,47.1,18.0,191.0,3121.0,Female
 Adelie,Dream,35.5,19.5,189.0,4068.0,Female
@@ -567,18 +534,7 @@ Gentoo,Biscoe,43.3,15.3,224.0,4769.0,Female
 Gentoo,Biscoe,50.1,14.1,225.0,5191.0,Female
 Chinstrap,Dream,48.0,20.6,193.0,3546.0,Male
 Gentoo,Biscoe,48.5,17.0,206.0,5035.0,Female
-Gentoo,Biscoe,47.7,14.7,212.0,5022.0,"<bound method Series.mode of 0      Female
-1        Male
-2      Female
-3        Male
-4        Male
-        ...  
-995      Male
-996    Female
-997      Male
-998    Female
-999    Female
-Name: sex, Length: 1000, dtype: str>"
+Gentoo,Biscoe,47.7,14.7,212.0,5022.0,Female
 Gentoo,Biscoe,40.9,16.0,223.0,5073.0,Male
 Adelie,Torgersen,39.3,19.4,191.0,3971.0,Female
 Chinstrap,Dream,53.5,18.0,197.0,3978.0,Male
@@ -606,18 +562,7 @@ Chinstrap,Dream,48.2,20.0,195.0,4045.0,Male
 Gentoo,Biscoe,48.0,16.0,221.0,4667.0,Male
 Adelie,Dream,41.6,18.1,193.0,3952.0,Male
 Adelie,Dream,41.5,19.4,195.0,3605.0,Female
-Adelie,Torgersen,40.9,18.1,196.0,4136.0,"<bound method Series.mode of 0      Female
-1        Male
-2      Female
-3        Male
-4        Male
-        ...  
-995      Male
-996    Female
-997      Male
-998    Female
-999    Female
-Name: sex, Length: 1000, dtype: str>"
+Adelie,Torgersen,40.9,18.1,196.0,4136.0,Female
 Adelie,Torgersen,38.5,18.6,187.0,4106.0,Male
 Chinstrap,Dream,48.9,18.2,196.0,3796.0,Male
 Adelie,Torgersen,32.8,19.2,190.0,4014.0,Female
@@ -721,18 +666,7 @@ Adelie,Dream,38.1,18.3,188.0,3207.0,Female
 Adelie,Dream,43.2,20.6,195.0,3599.0,Female
 Adelie,Dream,44.3,18.3,191.0,3244.0,Female
 Adelie,Dream,41.6,17.7,188.0,3361.0,Male
-Adelie,Dream,43.8,19.8,192.0,4110.0,"<bound method Series.mode of 0      Female
-1        Male
-2      Female
-3        Male
-4        Male
-        ...  
-995      Male
-996    Female
-997      Male
-998    Female
-999    Female
-Name: sex, Length: 1000, dtype: str>"
+Adelie,Dream,43.8,19.8,192.0,4110.0,Female
 Adelie,Dream,37.1,17.6,180.0,3710.0,Male
 Adelie,Dream,32.4,18.9,190.0,3841.0,Female
 Adelie,Torgersen,41.1,18.5,200.0,3887.0,Male
@@ -775,18 +709,7 @@ Adelie,Torgersen,35.8,18.5,193.0,3904.0,Male
 Gentoo,Biscoe,46.9,15.9,221.0,4139.0,Male
 Adelie,Dream,36.0,18.6,187.0,3554.0,Male
 Chinstrap,Dream,52.2,18.7,205.0,3817.0,Male
-Gentoo,Biscoe,50.8,13.6,221.0,5679.0,"<bound method Series.mode of 0      Female
-1        Male
-2      Female
-3        Male
-4        Male
-        ...  
-995      Male
-996    Female
-997      Male
-998    Female
-999    Female
-Name: sex, Length: 1000, dtype: str>"
+Gentoo,Biscoe,50.8,13.6,221.0,5679.0,Female
 Chinstrap,Dream,51.3,19.4,192.0,3383.0,Male
 Chinstrap,Dream,49.9,17.7,188.0,3870.0,Male
 Adelie,Dream,42.9,19.5,194.0,3994.0,Female
@@ -822,18 +745,7 @@ Gentoo,Biscoe,43.8,15.0,215.0,5516.0,Female
 Chinstrap,Dream,49.0,18.1,204.0,2879.0,Male
 Adelie,Dream,37.8,20.0,185.0,3932.0,Female
 Gentoo,Biscoe,43.4,15.3,221.0,4458.0,Female
-Adelie,Dream,40.1,17.9,186.0,4284.0,"<bound method Series.mode of 0      Female
-1        Male
-2      Female
-3        Male
-4        Male
-        ...  
-995      Male
-996    Female
-997      Male
-998    Female
-999    Female
-Name: sex, Length: 1000, dtype: str>"
+Adelie,Dream,40.1,17.9,186.0,4284.0,Female
 Chinstrap,Dream,50.4,17.3,182.0,2880.0,Female
 Gentoo,Biscoe,43.8,14.7,216.0,6237.0,Male
 Chinstrap,Dream,43.9,18.2,194.0,3918.0,Female
@@ -910,18 +822,7 @@ Adelie,Torgersen,34.8,18.0,194.0,3318.0,Female
 Gentoo,Biscoe,46.6,16.0,216.0,4903.0,Female
 Adelie,Dream,37.6,18.3,195.0,3739.0,Female
 Adelie,Dream,40.3,18.2,187.0,3757.0,Male
-Adelie,Torgersen,33.4,16.6,179.0,4014.0,"<bound method Series.mode of 0      Female
-1        Male
-2      Female
-3        Male
-4        Male
-        ...  
-995      Male
-996    Female
-997      Male
-998    Female
-999    Female
-Name: sex, Length: 1000, dtype: str>"
+Adelie,Torgersen,33.4,16.6,179.0,4014.0,Female
 Chinstrap,Dream,52.7,18.4,187.0,4106.0,Female
 Gentoo,Biscoe,48.2,15.7,214.0,5063.0,Male
 Adelie,Dream,40.8,20.4,185.0,3989.0,Female
@@ -936,18 +837,7 @@ Chinstrap,Dream,43.6,18.6,197.0,3603.0,Female
 Adelie,Dream,37.2,18.3,197.0,3755.0,Female
 Gentoo,Biscoe,42.0,14.4,209.0,5817.0,Male
 Adelie,Torgersen,40.8,17.2,185.0,3720.0,Female
-Chinstrap,Dream,50.9,19.5,199.0,4048.0,"<bound method Series.mode of 0      Female
-1        Male
-2      Female
-3        Male
-4        Male
-        ...  
-995      Male
-996    Female
-997      Male
-998    Female
-999    Female
-Name: sex, Length: 1000, dtype: str>"
+Chinstrap,Dream,50.9,19.5,199.0,4048.0,Female
 Chinstrap,Dream,50.0,18.6,189.0,3744.0,Female
 Adelie,Torgersen,37.7,20.8,190.0,3279.0,Female
 Chinstrap,Dream,45.1,16.7,201.0,4195.0,Male
