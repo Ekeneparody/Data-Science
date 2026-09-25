@@ -1,6 +1,6 @@
 # Penguin Specie dataset
 
-### A penguin specie dataset with the folloein issues:
+### A penguin specie dataset with the following issues:
 
 - Missing values at the 'culmen_length_mm' column
 - Missing values at the 'culmen_depth_mm' column
